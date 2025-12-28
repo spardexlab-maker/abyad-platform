@@ -1,0 +1,7 @@
+{
+  "name": "MyDoctor",
+  "description": "A comprehensive platform for patients to find and book appointments with doctors. Includes dedicated portals for doctors to manage their schedules and for admins to oversee the system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
